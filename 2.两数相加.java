@@ -2,8 +2,8 @@
  * @Author: Weidows
  * @Date: 2020-09-14 16:34:09
  * @LastEditors: Weidows
- * @LastEditTime: 2020-09-14 16:35:36
- * @FilePath: \Weidowsd:\Game\Demo\LeetCode\2.两数相加.java
+ * @LastEditTime: 2020-09-16 19:24:03
+ * @FilePath: \Weidowsd:\Game\Demo\GitHub\LeetCode\2.两数相加.java
  */
 /*
  * @lc app=leetcode.cn id=2 lang=java
@@ -45,9 +45,17 @@
  * }
  */
 class Solution {
-    public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+  private int power = 0;
+
+  public int getNumber(ListNode L) {
+    if (L != null) {
       
     }
+  }
+  public ListNode addTwoNumbers(ListNode l1, ListNode l2) {
+    
+  }
+  throw new IllegalArgumentException("Error");
 }
 // @lc code=end
 
