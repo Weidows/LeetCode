@@ -2,8 +2,8 @@
  * @Author: Weidows
  * @Date: 2020-08-25 19:14:35
  * @LastEditors: Weidows
- * @LastEditTime: 2020-11-18 12:56:45
- * @FilePath: \Weidowsd:\Game\Demo\Github\LeetCode\README.md
+ * @LastEditTime: 2020-11-28 18:05:54
+ * @FilePath: \Github\LeetCode\README.md
 -->
 <h1 align="center">
 
@@ -11,14 +11,10 @@
 
 ⭐️ Weidow's LeetCode ⭐️
 
-仅仅是力扣刷过的一点小学题
+- 仅仅是力扣刷过的一点小学题
 
 </h1>
 
-<center>
-
-# #N.[反馈 & 出处 (Aboue me & Click me)](https://weidows.gitee.io/tags/about)
+# [反馈](https://weidows.github.io/tags/about)
 
     后续会更新,同时欢迎有兴趣的提出修改意见或共同整改!
-
-</center>
